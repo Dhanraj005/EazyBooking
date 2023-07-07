@@ -1,0 +1,30 @@
+Get Rooms = localhost:8888/api/hotels/room/647869fb1089411c7f75de04
+
+add dates = localhost:8888/api/hotelRooms/availability/6489b9e969534f9b4e807880
+
+count by city = localhost:8888/api/hotels?featured =true&limit=2&min=1&max=999
+
+featured = localhost:8888/api/hotels?featured=true&min=100&max=900
+
+type = localhost:8888/api/hotels/countByType
+
+update user = localhost:8888/api/users/checkadmin/646dc6eb3637
+
+delete room = localhost:8888/api/hotelRooms/646e022e11cc477a4b0c5a8d/646c75e0ee27dad352bc73ca
+
+create room = localhost:8888/api/hotelRooms/648ac5b05905da20bddad3de
+
+login register = localhost:8888/api/auth/login
+
+delete hotels = localhost:8888/api/hotels/646c75ccee27dad352bc73c8
+
+
+get all hotels = localhost:8888/api/hotels
+
+
+update hotel = localhost:8888/api/hotels/646c75e0ee27dad352bc73ca
+
+
+create hotel =  localhost:8888/api/hotels
+
+
